@@ -1,0 +1,8 @@
+ if input_unit_of_measurement == 'f' and output_unit_of_measurement == 'c':
+
+        
+    elif input_unit_of_measurement == 'f' and output_unit_of_measurement == 'k':
+    elif input_unit_of_measurement == 'c' and output_unit_of_measurement == 'f':
+    elif input_unit_of_measurement == 'c' and output_unit_of_measurement == 'k'
+    elif input_unit_of_measurement == 'k' and output_unit_of_measurement == 'f'
+    elif input_unit_of_measurement == 'k' and output_unit_of_measurement == 'c'  
